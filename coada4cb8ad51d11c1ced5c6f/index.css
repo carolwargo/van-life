@@ -33,6 +33,12 @@ header .site-logo {
     font-size: 25px;
 }
 
+a.active-link {
+    font-weight: bold;
+    text-decoration: underline;
+    color: orange
+}
+
 header a {
     text-decoration: none;
     color: #4D4D4D;
@@ -235,9 +241,11 @@ i[class*='van-type-'] {
     text-decoration: none;
 }
 
-.van-detail-container .back-button:visited {
+/*.
+van-detail-container .back-button:visited {   
     
 }
+*/
 
 .van-detail-container .back-button span {
     text-decoration: underline;
