@@ -6,6 +6,7 @@
     "react-router-dom": "6.4.3",
     "miragejs": "0.1.46"
   },
+  
   "devDependencies": {
     "vite": "latest",
     "@vitejs/plugin-react": "*"

@@ -33,6 +33,7 @@ export default function HostVans () {
         {vans.length > 0 ? (
           <section>{hostVansEls}</section>
         ) : (
+          //ADD loading state
           <h2>Loading...</h2>
         )}
       </div>
